@@ -1,5 +1,5 @@
-# ai_magazine
-A self created Magzine
+# ai_magazine #MVP
+A generative Magazine, simple, with no costs. 
 
 https://theswedishpost.wordpress.com/
 
